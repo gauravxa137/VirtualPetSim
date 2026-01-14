@@ -60,9 +60,8 @@ python material_pet_pro.py
 
 ## 📂 Project Structure
 
-* `assets/`: Images and icons.
-* `material_pet_pro.py`: Main game script.
-* `requirements.txt`: Project dependencies.
+* `ss/`: Images.
+* `vps.py`: Main game script.
 
 ---
 
