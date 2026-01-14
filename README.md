@@ -34,11 +34,11 @@ python material_pet_pro.py
   <img src="ss/main.png" alt="Virtual Pet Simulator" width="400">
 </div>
 <div align="center">
-  <img src="(ss/shop.png" alt="Virtual Pet Simulator" width="400">
+  <img src="ss/shop.png" alt="Virtual Pet Simulator" width="400">
 </div>
 
 <div align="center">
-  <img src="(ss/inventory.png" alt="Virtual Pet Simulator" width="400">
+  <img src="ss/inventory.png" alt="Virtual Pet Simulator" width="400">
 </div>
 
 ---
